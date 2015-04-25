@@ -3,3 +3,8 @@
 target/
 .gradle/
 node_modules
+.classpath
+.project
+.settings/
+dependency-reduced-pom.xml
+
